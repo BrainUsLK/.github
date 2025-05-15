@@ -1,10 +1,7 @@
 # BrainUs LK
 
-<div align="center">
-  <img src="https://media.discordapp.net/attachments/1345373231099678813/1366170815820988446/Image_Background_Remover.png?ex=680ff938&is=680ea7b8&hm=a05a35c113ef8a363f5a34673fdb6b5d8d610eff1b112c64beb23c19483b12b9&=&format=webp&quality=lossless&width=700&height=700" alt="BrainUs LK Logo" width=500/>
-  <h3>Revolutionizing Education in Sri Lanka</h3>
-  <p>Interactive, gamified learning for O/L and A/L students</p>
-</div>
+![Frame 1](https://github.com/user-attachments/assets/6298ce09-e30d-4bf1-a332-dd675c6df394)
+
 
 ## 🚀 Our Mission
 
